@@ -1,0 +1,10 @@
+﻿picture
+house
+sentence
+answer
+science
+children
+force
+pound
+perhaps
+square

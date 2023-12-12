@@ -1,0 +1,10 @@
+9: square
+5: perhaps
+2: pound
+7: force
+1: children
+0: science
+6: answer
+4: sentence
+8: house
+3: picture
